@@ -1,3 +1,0 @@
-nicegui
-huggingface_hub
-pillow
